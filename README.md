@@ -45,7 +45,7 @@ return 0;
 
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/2f883ed1-b494-4d40-b268-fc147c052dd4)
+![WhatsApp Image 2024-10-24 at 16 39 03_11b68947](https://github.com/user-attachments/assets/477ae0dd-4c73-4373-a89b-46cb9a668c78)
 
 
 ## RESULT: 
